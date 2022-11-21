@@ -1,7 +1,9 @@
 # AddNumbers
 
-In this scenario I wrote a program that accepts user input with the following criteria:
+This program displays the sum of two numbers from the user.
 
-It prompts the user for their name.
-It allows the user to enter two integer values.
-The program then calculates and displays their sum.
+### Program Guidelines
+
+- Prompt the user for their name
+- Allows the user to enter two integer values.
+- Calculate and display their sum
