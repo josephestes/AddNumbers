@@ -1,8 +1,8 @@
 # AddNumbers
 
-This program displays the sum of two numbers from the user.
+This program displays the sum of two numbers from user input.
 
-### Program Guidelines
+### Program Logic
 
 - Prompt the user for their name
 - Allow the user to enter two integer values
