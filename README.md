@@ -1,20 +1,18 @@
 # AddNumbers
 
-This program displays the sum of two numbers from user input.
+This program returns the sum of two integers entered by the user.
 
-## Usage/Examples
+## Usage
+
+The user will be prompted for their name and the two integers to be added. The program will then output the sum of the two integers.
+
+## Example
 
 ```
-Enter your name: Joseph
-Hello Joseph! Enter the first integer: 2
-Enter the second integer: 3
-Joseph, the sum of 2 and 3 is 5
+Enter your name: John
+Hello John! Enter the first integer: 3
+Enter the second integer: 5
+John, the sum of 3 and 5 is 8
 
 Press any key to close this window . . .
 ```
-
-### Program Logic
-
-- Prompt the user for their name
-- Allow the user to enter two integer values
-- Calculate and display their sum
